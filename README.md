@@ -1,4 +1,4 @@
-# Hi, I'm Sara 👋
+## Hi, I'm Sara 👋
 
 **Data Scientist @ [HOPPR.ai](https://hoppr.ai)** · Houston, TX
 
